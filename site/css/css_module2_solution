@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: black;
+    background-color: blanchedalmond;
+    width: fit-content;
+    margin: 0px;
+}
+
+
+
+
+
+
